@@ -47,7 +47,7 @@ const quizzes = {
         intro:
             "This quiz focuses on communication style, emotional needs, social energy, conflict style and relationship preferences.",
 
-        image: "Image/Enhypen.jpg",
+        image: "images/Enhypen.jpg",
 
         questions: [
 
@@ -281,49 +281,49 @@ const quizzes = {
 
             jungwon: {
                 name: "JUNGWON",
-                image: "Image/Jungwon.jpg",
+                image: "images/Jungwon.jpg",
                 description:
                     "You seem to need emotional steadiness more than dramatic chemistry. You value consistency, communication and someone who doesn't make you decode every little thing. Your strongest match is the calm-and-secure dynamic."
             },
 
             jay: {
                 name: "JAY",
-                image: "Image/Jay.jpg",
+                image: "images/Jay.jpg",
                 description:
                     "You lean toward reliability, directness and effort. You probably notice what people DO more than what they promise. You need someone who can be dependable without becoming emotionally unavailable."
             },
 
             jake: {
                 name: "JAKE",
-                image: "Image/Jake.jpg",
+                image: "images/Jake.jpg",
                 description:
                     "You appear to value warmth and friendship inside romance. A relationship that feels cold or overly formal would probably drain you. You want affection, laughter and genuine emotional closeness."
             },
 
             sunghoon: {
                 name: "SUNGHOON",
-                image: "Image/Sunghoon.jpg",
+                image: "images/Sunghoon.jpg",
                 description:
                     "You seem comfortable with quieter chemistry. You don't necessarily need constant reassurance and may actually prefer someone composed, private and emotionally controlled."
             },
 
             sunoo: {
                 name: "SUNOO",
-                image: "Image/Sunoo.jpg",
+                image: "images/Sunoo.jpg",
                 description:
                     "You value emotional expression and fun. You probably want a partner who actually reacts, communicates and makes the relationship feel alive rather than leaving everything unsaid."
             },
 
             niki: {
                 name: "NI-KI",
-                image: "Image/Niki.jpg",
+                image: "images/Niki.jpg",
                 description:
                     "You seem drawn toward confidence, challenge and excitement. You would probably get bored in a relationship with zero spark, but you also need enough respect and maturity to stop intensity becoming chaos."
             },
 
             heeseung: {
                 name: "HEESEUNG",
-                image: "Image/Heeseung.jpg",
+                image: "images/Heeseung.jpg",
                 description:
                     "Mental connection matters heavily to you. You seem to want someone you can talk to deeply, learn from and feel understood by. Surface-level chemistry alone probably isn't enough."
             }
@@ -349,7 +349,7 @@ const quizzes = {
         intro:
             "This quiz uses your communication preferences, social energy, emotional style and relationship values.",
 
-        image: "",
+        image: "images/cortis.jpg",
 
         questions: [
 
@@ -498,35 +498,35 @@ const quizzes = {
 
             martin: {
                 name: "MARTIN",
-                image: "",
+                image: "images/martin.jpg",
                 description:
                     "Your answers point toward a calm, composed and independent relationship dynamic. You seem to prefer substance over constant attention and probably need someone who respects your space."
             },
 
             james: {
                 name: "JAMES",
-                image: "",
+                image: "images/james.jpg",
                 description:
                     "You lean toward directness, ambition and confidence. You probably find indecision exhausting and want someone who can stand beside you rather than constantly needing to be carried."
             },
 
             juhoon: {
                 name: "JUHOON",
-                image: "",
+                image: "images/juhoon.jpg",
                 description:
                     "Your answers suggest that emotional warmth matters a lot to you. You are likely to appreciate consistency, kindness and a relationship where affection doesn't have to be guessed."
             },
 
             seonghyeon: {
                 name: "SEONGHYEON",
-                image: "",
+                image: "images/seonghyeon.jpg",
                 description:
                     "You seem attracted to individuality and creative energy. You probably need a relationship where both people still have their own interests, ideas and identity."
             },
 
             keonho: {
                 name: "KEONHO",
-                image: "",
+                image: "iages/keonho.jpg",
                 description:
                     "You seem to thrive on playful chemistry. You need someone who can joke around, keep things interesting and make romance feel like friendship with extra electricity."
             }
@@ -552,7 +552,7 @@ const quizzes = {
         intro:
             "This is a fan-made compatibility exercise based on public-facing information and personality concepts. It cannot determine Sunghoon's private preferences.",
 
-        image: "Image/Sunghoon.jpg",
+        image: "images/Sunghoon.jpg",
 
         questions: [
 
