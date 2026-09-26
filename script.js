@@ -660,4 +660,719 @@ const quizzes = {
                     {
                         text: "Calm and practical.",
                         scores: { balanced: 3 }
+                           },
+
+                    {
+                        text: "Romantic and intense.",
+                        scores: { romantic: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "Be brutally honest. What do you need most?",
+
+                options: [
+
+                    {
+                        text: "Reassurance.",
+                        scores: { soft: 3 }
+                    },
+
+                    {
+                        text: "Stability.",
+                        scores: { balanced: 3 }
+                    },
+
+                    {
+                        text: "Freedom.",
+                        scores: { independent: 3 }
+                    },
+
+                    {
+                        text: "Chemistry.",
+                        scores: { romantic: 3 }
+                    }
+
+                ]
+            }
+
+        ],
+
+        results: {
+
+            soft: {
+                name: "LOWER COMPATIBILITY",
+                image: "Image/Sunghoon.jpg",
+                score: "YOUR STYLE: HIGH REASSURANCE",
+                description:
+                    "You seem to need frequent emotional reassurance and visible affection. That's not bad at all. But if you were paired with someone more private or reserved, you could end up feeling ignored when they are simply processing things differently."
+            },
+
+            balanced: {
+                name: "STRONG COMPATIBILITY",
+                image: "Image/Sunghoon.jpg",
+                score: "YOUR STYLE: EMOTIONALLY BALANCED",
+                description:
+                    "Your answers show a healthy balance between closeness and independence. You want communication without demanding constant access to someone. That generally creates a more sustainable relationship dynamic."
+            },
+
+            independent: {
+                name: "VERY STRONG COMPATIBILITY",
+                image: "Image/Sunghoon.jpg",
+                score: "YOUR STYLE: INDEPENDENT",
+                description:
+                    "You are comfortable giving people space and maintaining your own identity. Based purely on compatibility psychology, that can work particularly well with a more private or reserved personality."
+            },
+
+            romantic: {
+                name: "POSSIBLE COMPATIBILITY",
+                image: "Image/Sunghoon.jpg",
+                score: "YOUR STYLE: ROMANTIC",
+                description:
+                    "You want strong chemistry and meaningful affection. That can be great, but your biggest challenge may be expecting emotional intensity all the time. A quieter partner could sometimes feel less romantic than they actually are."
+            }
+
+        }
+
+    },
+
+
+    /* =================================================
+       04 KATSEYE
+    ================================================= */
+
+    "katseye": {
+
+        group: "KATSEYE",
+
+        title: "Which KATSEYE Member Matches Your Vibe?",
+
+        subtitle:
+            "Your personality, confidence and social energy decide your result.",
+       intro:
+            "This quiz compares your answers with different personality and energy profiles inspired by the members' public-facing personas.",
+
+        image: "",
+
+        questions: [
+
+            {
+                question:
+                    "When you walk into a room, your natural energy is...",
+
+                options: [
+
+                    {
+                        text: "Bright, expressive and impossible to miss.",
+                        scores: { daniela: 3 }
+                    },
+
+                    {
+                        text: "Cool. I don't need to try hard to stand out.",
+                        scores: { manon: 3 }
+                    },
+
+                    {
+                        text: "Warm and welcoming.",
+                        scores: { sophia: 3 }
+                    },
+
+                    {
+                        text: "Confident and sharp.",
+                        scores: { lara: 3 }
+                    },
+
+                    {
+                        text: "Playful and energetic.",
+                        scores: { megan: 3 }
+                    },
+
+                    {
+                        text: "Fresh, youthful and quietly charming.",
+                        scores: { yoonchae: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "Your strongest social trait is...",
+
+
+                options: [
+
+                    {
+                        text: "Expressiveness.",
+                        scores: { daniela: 3 }
+                    },
+
+                    {
+                        text: "Effortless confidence.",
+                        scores: { manon: 3 }
+                    },
+
+                    {
+                        text: "Empathy.",
+                        scores: { sophia: 3 }
+                    },
+
+                    {
+                        text: "Assertiveness.",
+                        scores: { lara: 3 }
+                    },
+
+                    {
+                        text: "Playfulness.",
+                        scores: { megan: 3 }
+                    },
+
+                    {
+                        text: "Adaptability.",
+                        scores: { yoonchae: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "Pick your fashion energy.",
+
+                options: [
+
+                    {
+                        text: "Bold, fun and expressive.",
+                        scores: { daniela: 3 }
+                    },
+
+                    {
+                        text: "Minimal but effortlessly cool.",
+                        scores: { manon: 3 }
+                    },
+
+                    {
+                        text: "Elegant and polished.",
+                        scores: { sophia: 3 }
+                    },
+
+                    {
+                        text: "Statement pieces and confidence.",
+                        scores: { lara: 3 }
+                    },
+
+                    {
+                        text: "Trendy and playful.",
+                        scores: { megan: 3 }
+                    },
+
+                    {
+                        text: "Fresh and youthful.",
+                        scores: { yoonchae: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "What do people usually notice first about you?",
+               options: [
+
+                    {
+                        text: "My expressions.",
+                        scores: { daniela: 3 }
+                    },
+
+                    {
+                        text: "My aura.",
+                        scores: { manon: 3 }
+                    },
+
+                    {
+                        text: "My friendliness.",
+                        scores: { sophia: 3 }
+                    },
+
+                    {
+                        text: "My confidence.",
+                        scores: { lara: 3 }
+                    },
+
+                    {
+                        text: "My energy.",
+                        scores: { megan: 3 }
+                    },
+
+                    {
+                        text: "My charm.",
+                        scores: { yoonchae: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "Your biggest main-character trait is...",
+
+
+                options: [
+
+                    {
+                        text: "I can make people feel the emotion.",
+                        scores: { daniela: 3 }
+                    },
+
+                    {
+                        text: "I don't need everyone's approval.",
+                        scores: { manon: 3 }
+                    },
+
+                    {
+                        text: "People feel comfortable around me.",
+                        scores: { sophia: 3 }
+                    },
+
+                    {
+                        text: "I know what I want.",
+                        scores: { lara: 3 }
+                    },
+
+                    {
+                        text: "I make everything more fun.",
+                        scores: { megan: 3 }
+                    },
+
+                    {
+                        text: "I can fit into different situations.",
+                        scores: { yoonchae: 3 }
+                    }
+
+                ]
+            }
+
+        ],
+
+        results: {
+
+            manon: {
+                name: "MANON",
+                image: "",
+                description:
+                    "Your answers point toward an effortlessly cool and independent presence. You probably don't need to be the loudest person in the room to get noticed. Your strength is controlled confidence."
+            },
+
+            sophia: {
+                name: "SOPHIA",
+                image: "",
+                description:
+                    "You give warm, polished and approachable energy. You likely care about how people feel around you and naturally create a comfortable social atmosphere."
+            },
+
+            lara: {
+                name: "LARA",
+                image: "",
+                description:
+                    "Your answers show strong confidence and assertiveness. You seem comfortable taking up space, making decisions and showing personality without shrinking yourself."
+            },
+
+            megan: {
+                name: "MEGAN",
+                image: "",
+                description:
+                    "You have playful, energetic and expressive energy. You probably make ordinary situations more fun and prefer people who can keep up rather than constantly tone you down."
+            },
+
+            yoonchae: {
+                name: "YOONCHAE",
+                image: "",
+                description:
+                    "Your vibe is fresh, adaptable and naturally charming. You seem able to move between different social environments without needing to force a particular personality."
+            },
+
+            daniela: {
+                name: "DANIELA",
+                image: "",
+                description:
+                    "You have expressive, bright and emotionally visible energy. Your personality probably comes through strongly in your face, reactions and the way you communicate."
+            }
+
+        }
+
+    },
+
+
+    /* =================================================
+       05 ENHYPEN TYPE
+    ================================================= */
+
+    "enhypen-type": {
+       group: "ENHYPEN",
+
+        title: "Which ENHYPEN Member's Type Are You?",
+
+        subtitle:
+            "This time, your bias doesn't get to choose. Your personality does.",
+
+        intro:
+            "This is a psychology-inspired compatibility game based on personality traits and relationship preferences, not private celebrity information.",
+
+        image: "Image/Enhypen.jpg",
+
+        questions: [
+
+            {
+                question:
+                    "What quality do you naturally bring into a relationship?",
+
+                options: [
+
+                    {
+                        text: "Emotional stability.",
+                        scores: { jungwon: 3 }
+                    },
+
+                    {
+                        text: "Loyalty and effort.",
+                        scores: { jay: 3 }
+                    },
+
+                    {
+                        text: "Warmth and friendliness.",
+                        scores: { jake: 3 }
+                    },
+
+                    {
+                        text: "Composure.",
+                        scores: { sunghoon: 3 }
+                    },
+
+                    {
+                        text: "Emotional expression.",
+                        scores: { sunoo: 3 }
+                    },
+
+                    {
+                        text: "Confidence and energy.",
+                        scores: { niki: 3 }
+                    },
+
+                    {
+                        text: "Depth and curiosity.",
+                        scores: { heeseung: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "What kind of person are you when you trust someone?",
+
+                options: [
+
+                    {
+                        text: "Protective and steady.",
+                        scores: { jungwon: 3 }
+                    },
+
+                    {
+                        text: "Very dependable.",
+                        scores: { jay: 3 }
+                    },
+
+                    {
+                        text: "Affectionate and playful.",
+                        scores: { jake: 3 }
+                    },
+
+                    {
+                        text: "Quietly loyal.",
+                        scores: { sunghoon: 3 }
+                    },
+
+                    {
+                        text: "Open and expressive.",
+                        scores: { sunoo: 3 }
+                    },
+
+                    {
+                        text: "Playful and challenging.",
+                        scores: { niki: 3 }
+                    },
+
+                    {
+                        text: "Deeply communicative.",
+                        scores: { heeseung: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "Pick the compliment you'd secretly love most.",
+
+                options: [
+
+                    {
+                        text: "You're so emotionally mature.",
+                        scores: { jungwon: 3 }
+                    },
+
+                    {
+                        text: "I can always depend on you.",
+                        scores: { jay: 3 }
+                    },
+
+                    {
+                        text: "You're so easy to be around.",
+                        scores: { jake: 3 }
+                    },
+
+                    {
+                        text: "You have such a calm aura.",
+                        scores: { sunghoon: 3 }
+                    },
+
+                    {
+                        text: "You make everything brighter.",
+                        scores: { sunoo: 3 }
+                    },
+
+                    {
+                        text: "You're seriously confident.",
+                        scores: { niki: 3 }
+                    },
+
+                    {
+                        text: "I could talk to you forever.",
+                        scores: { heeseung: 3 }
+                    }
+
+                ]
+            },
+
+
+            {
+                question:
+                    "What relationship dynamic would actually keep you happy?",
+               options: [
+
+                    {
+                        text: "Secure and peaceful.",
+                        scores: { jungwon: 3 }
+                    },
+
+                    {
+                        text: "Loyal and ambitious.",
+                        scores: { jay: 3 }
+                    },
+
+                    {
+                        text: "Romantic best friends.",
+                        scores: { jake: 3 }
+                    },
+
+                    {
+                        text: "Private and elegant.",
+                        scores: { sunghoon: 3 }
+                    },
+
+                    {
+                        text: "Fun and affectionate.",
+                        scores: { sunoo: 3 }
+                    },
+
+                    {
+                        text: "Exciting and passionate.",
+                        scores: { niki: 3 }
+                    },
+
+                    {
+                        text: "Deep and mentally stimulating.",
+                        scores: { heeseung: 3 }
+                    }
+
+                ]
+            }
+
+        ],
+
+        results: {
+
+            jungwon: {
+                name: "JUNGWON'S TYPE",
+                image: "Image/Jungwon.jpg",
+                description:
+                    "Your strongest traits point toward emotional steadiness, consistency and maturity. You are less about dramatic attention and more about building something that actually feels safe."
+            },
+
+            jay: {
+                name: "JAY'S TYPE",
+                image: "Image/Jay.jpg",
+                description:
+                    "You score strongly in loyalty, effort and ambition. You probably respect people who take relationships seriously and show love through what they actually do."
+            },
+
+            jake: {
+                name: "JAKE'S TYPE",
+                image: "Image/Jake.jpg",
+                description:
+                    "You give warm, approachable and affectionate energy. You probably want romance to feel natural rather than like a performance."
+            },
+
+            sunghoon: {
+                name: "SUNGHOON'S TYPE",
+                image: "Image/Sunghoon.jpg",
+                description:
+                    "Your answers suggest calmness, independence and emotional control. You don't appear to need constant attention to feel secure."
+            },
+
+            sunoo: {
+                name: "SUNOO'S TYPE",
+                image: "Image/Sunoo.jpg",
+                description:
+                    "You bring expressive, affectionate and bright energy. You probably want a relationship where emotions can actually be shown instead of permanently hidden."
+            },
+
+            niki: {
+                name: "NI-KI'S TYPE",
+                image: "Image/Niki.jpg",
+                description:
+                    "You have confident, energetic and playful relationship energy. You probably need someone who can challenge you without turning every disagreement into a competition."
+            },
+
+            heeseung: {
+                name: "HEESEUNG'S TYPE",
+                image: "Image/Heeseung.jpg",
+                description:
+                    "You value mental connection, curiosity and meaningful conversation. Surface-level attraction probably loses its power quickly if there is nothing deeper underneath."
+            }
+
+        }
+
+    }
+
+};
+
+
+/* =====================================================
+   UTILITY
+===================================================== */
+
+function getQuizID() {
+
+    const params = new URLSearchParams(window.location.search);
+
+    return params.get("quiz");
+
+}
+
+
+/* =====================================================
+   START QUIZ PAGE
+===================================================== */
+
+let currentQuiz = null;
+
+let currentQuestion = 0;
+
+let scores = {};
+
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    const quizApp = document.getElementById("quizApp");
+
+    if (!quizApp) return;
+
+    const quizID = getQuizID();
+
+    currentQuiz = quizzes[quizID];
+
+    if (!currentQuiz) {
+
+        showQuizNotFound();
+
+        return;
+
+    }
+
+    showQuizIntro();
+
+});
+
+
+/* =====================================================
+   INTRO
+===================================================== */
+
+function showQuizIntro() {
+
+    const app = document.getElementById("quizApp");
+
+    app.innerHTML = `
+
+        <div class="quiz-container">
+
+            <section class="quiz-intro">
+
+                <p class="mini-label">
+                    ${currentQuiz.group} • ANGEL DIARY
+                </p>
+
+                <h1>
+                    ${formatTitle(currentQuiz.title)}
+                </h1>
+
+                <p>
+                    ${currentQuiz.subtitle}
+                </p>
+
+            </section>
+
+
+            <section class="quiz-rules">
+
+                <strong>
+                    ♡ BEFORE YOU START
+                </strong>
+
+                <p>
+                    ${currentQuiz.intro}
+                </p>
+
+                <p>
+                    Be honest. Choosing the answer you think is
+                    "prettier" can change your result. There are no
+                    correct answers. The point is to measure your
+                    actual personality preferences.
+                </p>
+
+                <button
+                    class="start-real-button"
+                    onclick="beginQuiz()"
+                >
+                    I'LL BE HONEST • START
+                </button>
+
+            </section>
+
+        </div>
+
+    `;
+
+}
            
